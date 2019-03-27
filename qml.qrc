@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+		<file>sources/RegressionChartManager.cpp</file>
+		<file>headers/RegressionChartManager.h</file>
+    </qresource>
+</RCC>

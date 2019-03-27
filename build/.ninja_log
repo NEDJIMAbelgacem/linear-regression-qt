@@ -1,0 +1,13 @@
+# ninja log v5
+4	958	0	CMakeFiles/linear-regression-qt_autogen	ecf8bf1d98bc73e7
+4	958	0	linear-regression-qt_autogen/mocs_compilation.cpp	ecf8bf1d98bc73e7
+958	1755	575424145	linear-regression-qt_autogen/EWIEGA46WW/qrc_qml.cpp	966248308901859f
+1964	3261	575424147	CMakeFiles/linear-regression-qt.dir/linear-regression-qt_autogen/EWIEGA46WW/qrc_qml.cpp.obj	9bf7f6534e6d5576
+2004	8044	575424151	CMakeFiles/linear-regression-qt.dir/linear-regression-qt_autogen/mocs_compilation.cpp.obj	198c86e4eb7bf8dd
+1906	8988	575424152	CMakeFiles/linear-regression-qt.dir/sources/RegressionChartManager.cpp.obj	5a679a60bd5a05ad
+1755	16830	575424160	CMakeFiles/linear-regression-qt.dir/main.cpp.obj	bf4a97a39de39d96
+16837	20599	575424164	linear-regression-qt.exe	5982893cdce2b3bd
+13	165	0	CMakeFiles/linear-regression-qt_autogen	ecf8bf1d98bc73e7
+13	165	0	linear-regression-qt_autogen/mocs_compilation.cpp	ecf8bf1d98bc73e7
+165	8156	575424185	CMakeFiles/linear-regression-qt.dir/main.cpp.obj	bf4a97a39de39d96
+8157	9382	575424186	linear-regression-qt.exe	5982893cdce2b3bd
